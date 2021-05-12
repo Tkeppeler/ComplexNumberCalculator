@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">v33Complex</string>
+    <string name="titel">Komplexe Zahlen Rechner</string>
+    <string name="Complex_Number1">Komplexe Zahl 1:</string>
+    <string name="Complex_Number2">Komplexe Zahl 2:</string>
+    <string name="Complex_Number3">Komplexe Zahl 3:</string>
+    <string name="calculate">berechnen</string>
+    <string name="Button_minus">Z1 - Z2 = Z3</string>
+    <string name="Button_plus">Z1 + Z2 = Z3</string>
+    <string name="Button_reset">Zurücksetzen</string>
+    <string name="Buttpn_times">Z1 * Z2 = Z3</string>
+    <string name="Button_divided">Z1 / Z2 = Z3</string>
+</resources>
